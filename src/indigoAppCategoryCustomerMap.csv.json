@@ -1,0 +1,1690 @@
+[
+    {
+        "pk": 1,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 1
+        }
+    },
+    {
+        "pk": 2,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 1
+        }
+    },
+    {
+        "pk": 3,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "appliance",
+            "CustomerId": 1
+        }
+    },
+    {
+        "pk": 4,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "kitchen",
+            "CustomerId": 2
+        }
+    },
+    {
+        "pk": 5,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 3
+        }
+    },
+    {
+        "pk": 6,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "kitchen",
+            "CustomerId": 4
+        }
+    },
+    {
+        "pk": 7,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "storage",
+            "CustomerId": 5
+        }
+    },
+    {
+        "pk": 8,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "storage",
+            "CustomerId": 5
+        }
+    },
+    {
+        "pk": 9,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "building materials",
+            "CustomerId": 5
+        }
+    },
+    {
+        "pk": 10,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "plumbing",
+            "CustomerId": 6
+        }
+    },
+    {
+        "pk": 11,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "building materials",
+            "CustomerId": 6
+        }
+    },
+    {
+        "pk": 12,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "electrical",
+            "CustomerId": 7
+        }
+    },
+    {
+        "pk": 13,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 7
+        }
+    },
+    {
+        "pk": 14,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 8
+        }
+    },
+    {
+        "pk": 15,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "plumbing",
+            "CustomerId": 8
+        }
+    },
+    {
+        "pk": 16,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 9
+        }
+    },
+    {
+        "pk": 17,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lighting and fans",
+            "CustomerId": 10
+        }
+    },
+    {
+        "pk": 18,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "electrical",
+            "CustomerId": 10
+        }
+    },
+    {
+        "pk": 19,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "electrical",
+            "CustomerId": 10
+        }
+    },
+    {
+        "pk": 20,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "outdoor",
+            "CustomerId": 11
+        }
+    },
+    {
+        "pk": 21,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "kitchen",
+            "CustomerId": 12
+        }
+    },
+    {
+        "pk": 22,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 13
+        }
+    },
+    {
+        "pk": 23,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 14
+        }
+    },
+    {
+        "pk": 24,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "electrical",
+            "CustomerId": 14
+        }
+    },
+    {
+        "pk": 25,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "building materials",
+            "CustomerId": 14
+        }
+    },
+    {
+        "pk": 26,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 15
+        }
+    },
+    {
+        "pk": 27,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "plumbing",
+            "CustomerId": 16
+        }
+    },
+    {
+        "pk": 28,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "storage",
+            "CustomerId": 16
+        }
+    },
+    {
+        "pk": 29,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "home maintenance",
+            "CustomerId": 17
+        }
+    },
+    {
+        "pk": 30,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "decor",
+            "CustomerId": 17
+        }
+    },
+    {
+        "pk": 31,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 17
+        }
+    },
+    {
+        "pk": 32,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "decor",
+            "CustomerId": 18
+        }
+    },
+    {
+        "pk": 33,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 18
+        }
+    },
+    {
+        "pk": 34,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 18
+        }
+    },
+    {
+        "pk": 35,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 19
+        }
+    },
+    {
+        "pk": 36,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 19
+        }
+    },
+    {
+        "pk": 37,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "outdoor",
+            "CustomerId": 19
+        }
+    },
+    {
+        "pk": 38,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 20
+        }
+    },
+    {
+        "pk": 39,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 20
+        }
+    },
+    {
+        "pk": 40,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "outdoor",
+            "CustomerId": 21
+        }
+    },
+    {
+        "pk": 41,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "outdoor",
+            "CustomerId": 22
+        }
+    },
+    {
+        "pk": 42,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 23
+        }
+    },
+    {
+        "pk": 43,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 24
+        }
+    },
+    {
+        "pk": 44,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "plumbing",
+            "CustomerId": 24
+        }
+    },
+    {
+        "pk": 45,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 25
+        }
+    },
+    {
+        "pk": 46,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 26
+        }
+    },
+    {
+        "pk": 47,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 26
+        }
+    },
+    {
+        "pk": 48,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lighting and fans",
+            "CustomerId": 26
+        }
+    },
+    {
+        "pk": 49,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 27
+        }
+    },
+    {
+        "pk": 50,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 28
+        }
+    },
+    {
+        "pk": 51,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 28
+        }
+    },
+    {
+        "pk": 52,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 29
+        }
+    },
+    {
+        "pk": 53,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "electrical",
+            "CustomerId": 29
+        }
+    },
+    {
+        "pk": 54,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "decor",
+            "CustomerId": 30
+        }
+    },
+    {
+        "pk": 55,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "plumbing",
+            "CustomerId": 31
+        }
+    },
+    {
+        "pk": 56,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 31
+        }
+    },
+    {
+        "pk": 57,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "home maintenance",
+            "CustomerId": 32
+        }
+    },
+    {
+        "pk": 58,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 32
+        }
+    },
+    {
+        "pk": 59,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lumber",
+            "CustomerId": 32
+        }
+    },
+    {
+        "pk": 60,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 33
+        }
+    },
+    {
+        "pk": 61,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "appliance",
+            "CustomerId": 34
+        }
+    },
+    {
+        "pk": 62,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 35
+        }
+    },
+    {
+        "pk": 63,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "kitchen",
+            "CustomerId": 36
+        }
+    },
+    {
+        "pk": 64,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "decor",
+            "CustomerId": 37
+        }
+    },
+    {
+        "pk": 65,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lighting and fans",
+            "CustomerId": 37
+        }
+    },
+    {
+        "pk": 66,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 38
+        }
+    },
+    {
+        "pk": 67,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "plumbing",
+            "CustomerId": 38
+        }
+    },
+    {
+        "pk": 68,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 38
+        }
+    },
+    {
+        "pk": 69,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 39
+        }
+    },
+    {
+        "pk": 70,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 39
+        }
+    },
+    {
+        "pk": 71,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "outdoor",
+            "CustomerId": 39
+        }
+    },
+    {
+        "pk": 72,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 40
+        }
+    },
+    {
+        "pk": 73,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 40
+        }
+    },
+    {
+        "pk": 74,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "appliance",
+            "CustomerId": 40
+        }
+    },
+    {
+        "pk": 75,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "appliance",
+            "CustomerId": 41
+        }
+    },
+    {
+        "pk": 76,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 42
+        }
+    },
+    {
+        "pk": 77,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "home maintenance",
+            "CustomerId": 42
+        }
+    },
+    {
+        "pk": 78,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 42
+        }
+    },
+    {
+        "pk": 79,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "plumbing",
+            "CustomerId": 43
+        }
+    },
+    {
+        "pk": 80,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 43
+        }
+    },
+    {
+        "pk": 81,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lumber",
+            "CustomerId": 43
+        }
+    },
+    {
+        "pk": 82,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "outdoor",
+            "CustomerId": 44
+        }
+    },
+    {
+        "pk": 83,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "storage",
+            "CustomerId": 45
+        }
+    },
+    {
+        "pk": 84,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "home maintenance",
+            "CustomerId": 45
+        }
+    },
+    {
+        "pk": 85,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "decor",
+            "CustomerId": 46
+        }
+    },
+    {
+        "pk": 86,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "kitchen",
+            "CustomerId": 46
+        }
+    },
+    {
+        "pk": 87,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 46
+        }
+    },
+    {
+        "pk": 88,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lumber",
+            "CustomerId": 47
+        }
+    },
+    {
+        "pk": 89,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "appliance",
+            "CustomerId": 47
+        }
+    },
+    {
+        "pk": 90,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "kitchen",
+            "CustomerId": 47
+        }
+    },
+    {
+        "pk": 91,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lumber",
+            "CustomerId": 48
+        }
+    },
+    {
+        "pk": 92,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 48
+        }
+    },
+    {
+        "pk": 93,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "home maintenance",
+            "CustomerId": 49
+        }
+    },
+    {
+        "pk": 94,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "home maintenance",
+            "CustomerId": 49
+        }
+    },
+    {
+        "pk": 95,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lighting and fans",
+            "CustomerId": 49
+        }
+    },
+    {
+        "pk": 96,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 50
+        }
+    },
+    {
+        "pk": 97,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "appliance",
+            "CustomerId": 50
+        }
+    },
+    {
+        "pk": 98,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 51
+        }
+    },
+    {
+        "pk": 99,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 51
+        }
+    },
+    {
+        "pk": 100,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "decor",
+            "CustomerId": 51
+        }
+    },
+    {
+        "pk": 101,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 52
+        }
+    },
+    {
+        "pk": 102,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 52
+        }
+    },
+    {
+        "pk": 103,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "electrical",
+            "CustomerId": 53
+        }
+    },
+    {
+        "pk": 104,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "kitchen",
+            "CustomerId": 53
+        }
+    },
+    {
+        "pk": 105,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 54
+        }
+    },
+    {
+        "pk": 106,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "home maintenance",
+            "CustomerId": 54
+        }
+    },
+    {
+        "pk": 107,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 54
+        }
+    },
+    {
+        "pk": 108,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 55
+        }
+    },
+    {
+        "pk": 109,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "building materials",
+            "CustomerId": 56
+        }
+    },
+    {
+        "pk": 110,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 56
+        }
+    },
+    {
+        "pk": 111,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "home maintenance",
+            "CustomerId": 57
+        }
+    },
+    {
+        "pk": 112,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "electrical",
+            "CustomerId": 57
+        }
+    },
+    {
+        "pk": 113,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 58
+        }
+    },
+    {
+        "pk": 114,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "outdoor",
+            "CustomerId": 59
+        }
+    },
+    {
+        "pk": 115,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 59
+        }
+    },
+    {
+        "pk": 116,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 60
+        }
+    },
+    {
+        "pk": 117,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "outdoor",
+            "CustomerId": 60
+        }
+    },
+    {
+        "pk": 118,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "storage",
+            "CustomerId": 61
+        }
+    },
+    {
+        "pk": 119,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 61
+        }
+    },
+    {
+        "pk": 120,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "storage",
+            "CustomerId": 62
+        }
+    },
+    {
+        "pk": 121,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lumber",
+            "CustomerId": 62
+        }
+    },
+    {
+        "pk": 122,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "kitchen",
+            "CustomerId": 62
+        }
+    },
+    {
+        "pk": 123,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "kitchen",
+            "CustomerId": 63
+        }
+    },
+    {
+        "pk": 124,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "building materials",
+            "CustomerId": 63
+        }
+    },
+    {
+        "pk": 125,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "plumbing",
+            "CustomerId": 64
+        }
+    },
+    {
+        "pk": 126,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "appliance",
+            "CustomerId": 65
+        }
+    },
+    {
+        "pk": 127,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 65
+        }
+    },
+    {
+        "pk": 128,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 65
+        }
+    },
+    {
+        "pk": 129,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "electrical",
+            "CustomerId": 66
+        }
+    },
+    {
+        "pk": 130,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 67
+        }
+    },
+    {
+        "pk": 131,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lighting and fans",
+            "CustomerId": 68
+        }
+    },
+    {
+        "pk": 132,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "decor",
+            "CustomerId": 68
+        }
+    },
+    {
+        "pk": 133,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 68
+        }
+    },
+    {
+        "pk": 134,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "outdoor",
+            "CustomerId": 69
+        }
+    },
+    {
+        "pk": 135,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "decor",
+            "CustomerId": 69
+        }
+    },
+    {
+        "pk": 136,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "decor",
+            "CustomerId": 70
+        }
+    },
+    {
+        "pk": 137,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 71
+        }
+    },
+    {
+        "pk": 138,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 72
+        }
+    },
+    {
+        "pk": 139,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 73
+        }
+    },
+    {
+        "pk": 140,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "home maintenance",
+            "CustomerId": 73
+        }
+    },
+    {
+        "pk": 141,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 73
+        }
+    },
+    {
+        "pk": 142,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lumber",
+            "CustomerId": 74
+        }
+    },
+    {
+        "pk": 143,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "home maintenance",
+            "CustomerId": 75
+        }
+    },
+    {
+        "pk": 144,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 76
+        }
+    },
+    {
+        "pk": 145,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "storage",
+            "CustomerId": 76
+        }
+    },
+    {
+        "pk": 146,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "appliance",
+            "CustomerId": 77
+        }
+    },
+    {
+        "pk": 147,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lighting and fans",
+            "CustomerId": 77
+        }
+    },
+    {
+        "pk": 148,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 78
+        }
+    },
+    {
+        "pk": 149,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 79
+        }
+    },
+    {
+        "pk": 150,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 80
+        }
+    },
+    {
+        "pk": 151,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "decor",
+            "CustomerId": 80
+        }
+    },
+    {
+        "pk": 152,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "decor",
+            "CustomerId": 80
+        }
+    },
+    {
+        "pk": 153,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "building materials",
+            "CustomerId": 81
+        }
+    },
+    {
+        "pk": 154,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 81
+        }
+    },
+    {
+        "pk": 155,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "storage",
+            "CustomerId": 81
+        }
+    },
+    {
+        "pk": 156,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 82
+        }
+    },
+    {
+        "pk": 157,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "plumbing",
+            "CustomerId": 82
+        }
+    },
+    {
+        "pk": 158,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "electrical",
+            "CustomerId": 82
+        }
+    },
+    {
+        "pk": 159,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "building materials",
+            "CustomerId": 83
+        }
+    },
+    {
+        "pk": 160,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 83
+        }
+    },
+    {
+        "pk": 161,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 84
+        }
+    },
+    {
+        "pk": 162,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "building materials",
+            "CustomerId": 84
+        }
+    },
+    {
+        "pk": 163,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 84
+        }
+    },
+    {
+        "pk": 164,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 85
+        }
+    },
+    {
+        "pk": 165,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 86
+        }
+    },
+    {
+        "pk": 166,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "storage",
+            "CustomerId": 86
+        }
+    },
+    {
+        "pk": 167,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 87
+        }
+    },
+    {
+        "pk": 168,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 87
+        }
+    },
+    {
+        "pk": 169,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lumber",
+            "CustomerId": 87
+        }
+    },
+    {
+        "pk": 170,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 88
+        }
+    },
+    {
+        "pk": 171,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 88
+        }
+    },
+    {
+        "pk": 172,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "electrical",
+            "CustomerId": 89
+        }
+    },
+    {
+        "pk": 173,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "appliance",
+            "CustomerId": 90
+        }
+    },
+    {
+        "pk": 174,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "home maintenance",
+            "CustomerId": 91
+        }
+    },
+    {
+        "pk": 175,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 91
+        }
+    },
+    {
+        "pk": 176,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "building materials",
+            "CustomerId": 92
+        }
+    },
+    {
+        "pk": 177,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "storage",
+            "CustomerId": 93
+        }
+    },
+    {
+        "pk": 178,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "outdoor",
+            "CustomerId": 93
+        }
+    },
+    {
+        "pk": 179,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "home maintenance",
+            "CustomerId": 93
+        }
+    },
+    {
+        "pk": 180,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "storage",
+            "CustomerId": 94
+        }
+    },
+    {
+        "pk": 181,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lighting and fans",
+            "CustomerId": 94
+        }
+    },
+    {
+        "pk": 182,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "appliance",
+            "CustomerId": 95
+        }
+    },
+    {
+        "pk": 183,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 95
+        }
+    },
+    {
+        "pk": 184,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 95
+        }
+    },
+    {
+        "pk": 185,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "electrical",
+            "CustomerId": 96
+        }
+    },
+    {
+        "pk": 186,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 97
+        }
+    },
+    {
+        "pk": 187,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "outdoor",
+            "CustomerId": 97
+        }
+    },
+    {
+        "pk": 188,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 97
+        }
+    },
+    {
+        "pk": 189,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "kitchen",
+            "CustomerId": 98
+        }
+    },
+    {
+        "pk": 190,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "electrical",
+            "CustomerId": 99
+        }
+    },
+    {
+        "pk": 191,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lumber",
+            "CustomerId": 100
+        }
+    },
+    {
+        "pk": 192,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "plumbing",
+            "CustomerId": 100
+        }
+    },
+    {
+        "pk": 193,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "decor",
+            "CustomerId": 100
+        }
+    },
+    {
+        "pk": 194,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 101
+        }
+    },
+    {
+        "pk": 195,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 101
+        }
+    },
+    {
+        "pk": 196,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "plumbing",
+            "CustomerId": 101
+        }
+    },
+    {
+        "pk": 197,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 102
+        }
+    },
+    {
+        "pk": 198,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "flooring",
+            "CustomerId": 102
+        }
+    },
+    {
+        "pk": 199,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lighting and fans",
+            "CustomerId": 103
+        }
+    },
+    {
+        "pk": 200,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "doors and windows",
+            "CustomerId": 103
+        }
+    },
+    {
+        "pk": 201,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "storage",
+            "CustomerId": 103
+        }
+    },
+    {
+        "pk": 202,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "heating and cooling",
+            "CustomerId": 104
+        }
+    },
+    {
+        "pk": 203,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 104
+        }
+    },
+    {
+        "pk": 204,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "building materials",
+            "CustomerId": 104
+        }
+    },
+    {
+        "pk": 205,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "seasonal",
+            "CustomerId": 105
+        }
+    },
+    {
+        "pk": 206,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "building materials",
+            "CustomerId": 106
+        }
+    },
+    {
+        "pk": 207,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "appliance",
+            "CustomerId": 106
+        }
+    },
+    {
+        "pk": 208,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "lumber",
+            "CustomerId": 106
+        }
+    },
+    {
+        "pk": 209,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "bath",
+            "CustomerId": 107
+        }
+    },
+    {
+        "pk": 210,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "appliance",
+            "CustomerId": 107
+        }
+    },
+    {
+        "pk": 211,
+        "model": "indigoApp.CategoryCustomerMap",
+        "fields": {
+            "Category": "kitchen",
+            "CustomerId": 107
+        }
+    }
+]
