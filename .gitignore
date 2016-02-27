@@ -1,0 +1,7 @@
+lib/*
+bin/*
+include/*
+src/indigoApp/__pycache__/*
+src/IndigoHD/__pycache__/*
+pip-selfcheck.json
+>>>>>>> 247fa9d36b6e41bb43669178528a973ff46b65b6
