@@ -1,6 +1,6 @@
 #from keywordScrape import KeywordProvider
-from models import CategoryCustomerMap
-from models import Customers
+from indigoApp.models import CategoryCustomerMap
+from indigoApp.models import Customers
 from django.shortcuts import get_object_or_404
 
 class Associates:

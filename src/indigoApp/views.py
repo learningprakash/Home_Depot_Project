@@ -1,8 +1,8 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-from getProUsers import ProUsers
-from getAssociates import Associates
-from getDiyLinks import DiyLinks
+from indigoApp.getProUsers import ProUsers
+from indigoApp.getAssociates import Associates
+from indigoApp.getDiyLinks import DiyLinks
 
 # Create your views here.
 
@@ -18,28 +18,23 @@ def index(request):
 def pro(request):
 	#if request type is POST, process data
 	if request.method == 'POST':
-		selection = request.POST.get('byCategory')
+		selection = request.POST.get('hInput')
 		pro = ProUsers()
-		print selection
+		""" selection = request.POST.get('byCategory')
+		pro = ProUsers()
+		
 		if(selection == 'byProname'):
 			proname = request.POST.get('txtProName')
 			response = pro.getUserByName('Rala')
-			print "Response" +response.CompanyName
 
 			context = {'response_obj' : response}
 			return render(request, 'indigoApp/pro.html', context)
-		elif(selection == 'byCategory'):
+		elif(selection == 'byCategory'): 
 			category = request.POST.get('hInput')
-			print category
-			pro = ProUsers()
-			response = pro.getUsers(category.lower(), None)
-			for user in response:
-				print user.CompanyName
-				print user.Rating
-			context = {'response_obj' : response}
-			return render(request, 'indigoApp/pro.html', context)
-#		print request
-
+			pro = ProUsers()"""
+		response = pro.getUsers(selection.lower(), None)
+		context = {'response_obj' : response}
+		return render(request, 'indigoApp/pro.html', context)
 	return render(request, 'indigoApp/pro.html')
 	
 def help(request):
@@ -47,9 +42,6 @@ def help(request):
 		searchQuery = request.POST.get('answer')
 		link = DiyLinks()
 		response = link.getDiyLinks(searchQuery)
-		print response
-		print searchQuery
-		print request
 		context = {'response_obj' : response}
 		return render(request, 'indigoApp/help.html', context)
 	return render(request, 'indigoApp/help.html')
@@ -59,10 +51,6 @@ def associate(request):
 		selection = request.POST.get('hInput')
 		associates = Associates()
 		response = associates.getAssociatesFromCategory(selection.lower())
-		for user in response:
-			print user.CompanyName
-			print user.Rating
-		print selection
 		context = {'response_obj' : response}
 		return render(request, 'indigoApp/associate.html', context)
 	return render(request, 'indigoApp/associate.html')
@@ -71,6 +59,5 @@ def demo(request):
 	#orm = MyModelForm()
 	text = "Hey there" #+ request.POST.get('txtName')
 	context = {'response_text': text}
-	print request
 	return render(request, 'indigoApp/_demo.html', context)
 

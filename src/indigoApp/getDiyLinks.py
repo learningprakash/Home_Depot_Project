@@ -1,5 +1,5 @@
 #from keywordScrape import KeywordProvider
-from models import KeywordCategoryUrlMap
+from indigoApp.models import KeywordCategoryUrlMap
 from django.db.models import Q
 
 class DiyLinks:
